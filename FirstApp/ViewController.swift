@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     
+        print("cod pe git")
+        
         imagine.isHidden = true
         buton.setTitle("afiseaza imaginea", for: .normal)
     
